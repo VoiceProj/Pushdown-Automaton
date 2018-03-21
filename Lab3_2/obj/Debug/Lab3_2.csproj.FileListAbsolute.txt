@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\bin\Debug\Lab3_2.exe.config
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\bin\Debug\Lab3_2.exe
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\bin\Debug\Lab3_2.pdb
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\obj\Debug\Lab3_2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\obj\Debug\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\obj\Debug\Lab3_2.exe
+C:\Users\User\Desktop\Repository\Lab3\Lab3_2\obj\Debug\Lab3_2.pdb
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\bin\Debug\Lab3_2.exe.config
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\bin\Debug\Lab3_2.exe
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\bin\Debug\Lab3_2.pdb
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\obj\Debug\Lab3_2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\obj\Debug\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\obj\Debug\Lab3_2.exe
+C:\Users\User\Desktop\Repository\Pushdown-Automaton\Lab3_2\obj\Debug\Lab3_2.pdb
